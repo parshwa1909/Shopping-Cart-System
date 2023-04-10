@@ -40,11 +40,6 @@ yarn add redux react-redux        // for state management
 ``` 
    npm test
 ```
-## Images
-
-![Home Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/homepage.png)
-![List Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/listpage.png)
-![Update Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/updatepage.png)
 
 
 <!-- EXTENSIONS & LINTING SETUP -->
@@ -64,6 +59,4 @@ Install the below extensions:
 <!-- shield icon links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white 
-
-                   </> HAPPY PROGRAMMING & DEVELOPING 🤣 </>
+[giithub-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
