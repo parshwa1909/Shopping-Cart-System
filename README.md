@@ -53,10 +53,10 @@ Install the below extensions:
 
 <!-- my social media links -->
 
-[linkedin-url]: https://www.linkedin.com/in/parshwa1909
-[github-url]: https://www.github.com/parshwa-gandhi2001
+[linkedin-url]: https://www.linkedin.com/in/parshwa-gandhi2001
+[github-url]: https://www.github.com/parshwa1909
 
 <!-- shield icon links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[giithub-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+[giithub-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&colorB=555
