@@ -21,13 +21,12 @@ yarn add redux react-redux        // for state management
 ```
  - Clone the repository.
 ``` 
-   git clone https://github.com/ankitpipalia/DevOps-Git.git
+   git clone https://github.com/parshwa1909/git1909
 ```
- - Install dependencies in both the "trainee_frontend" and "trainee_backend" directories.
+ - Install dependencies in both the "frontend" and "backend" directories.
 ``` 
    npm install
 ```
- - Port Used - 3000(React) | 4000(Express) | 27017(mongodb)
  
 ## Run the Application
  - Start Application in both the "trainee_frontend" and "trainee_backend" directories.
