@@ -29,13 +29,13 @@ yarn add redux react-redux        // for state management
 ```
  
 ## Run the Application
- - Start Application in both the "trainee_frontend" and "trainee_backend" directories.
+ - Start Application in both the "frontend" and "backend" directories.
 
 ``` 
    npm start
 ```
 ## Testing
- - To run tests in the "trainee_backend" directory.
+ - To run tests in the "backend" directory.
 ``` 
    npm test
 ```
